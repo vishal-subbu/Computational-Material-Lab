@@ -1,5 +1,14 @@
-% variables in SI units 
- 
+%
+% Copyright (c) 2018, Vishal_S
+% All rights reserved. Please read the "license.txt" for license terms.
+%
+% Project Title: numerical_integ_diff
+% 
+% Developer: Vishal S
+% 
+% Contact Info: vishalsubbu97@gmail.com
+%
+% variables in SI units  
 g = 9.8 ;
 cd = 0.25;
 m = 70;
