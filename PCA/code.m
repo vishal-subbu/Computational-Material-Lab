@@ -1,3 +1,13 @@
+%
+% Copyright (c) 2018, Vishal_S
+% All rights reserved. Please read the "license.txt" for license terms.
+%
+% Project Title: PCA
+% 
+% Developer: Vishal S
+% 
+% Contact Info: vishalsubbu97@gmail.com
+%
 len = length(VarName1);
 
 mean1 = sum(VarName1)/len;
