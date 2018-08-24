@@ -1,4 +1,13 @@
-
+%
+% Copyright (c) 2018, Vishal_S
+% All rights reserved. Please read the "license.txt" for license terms.
+%
+% Project Title: numerical_integ_diff
+% 
+% Developer: Vishal S
+% 
+% Contact Info: vishalsubbu97@gmail.com
+%
 % Initialisation of variables
 h= [0.1,0.005,0.001,0.0005,0.0001,0.00001];
 x = 0.4;
