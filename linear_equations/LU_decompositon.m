@@ -1,3 +1,13 @@
+%
+% Copyright (c) 2018, Vishal_S
+% All rights reserved. Please read the "license.txt" for license terms.
+%
+% Project Title: Linear_equations
+% 
+% Developer: Vishal S
+% 
+% Contact Info: vishalsubbu97@gmail.com
+%
 N = 3;
 ans = zeros(N,1);
 b = [17.4,23.6,30.8];
